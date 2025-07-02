@@ -30,3 +30,10 @@ The firmware was developed in C and programmed directly to the microcontroller u
 This project was custom-built for a client in Australia, combining efficient hardware layout, precise speed control, and intuitive LED feedback in a slim, compact PCB design.
 
 <p align="center"> <img src="https://github.com/SujeewBandara/Product-Design-and-Development-Project-Motor-Controller-Device-/blob/main/Captureklhb.JPG"/>
+
+<p align="center"> <img src="https://github.com/SujeewBandara/Product-Design-and-Development-Project-Motor-Controller-Device-/blob/main/motor_controller_2024-Sep-15_07-09-39PM-000_CustomizedView45209946325.jpg"/>
+
+<p align="center"> <img src="https://github.com/SujeewBandara/Product-Design-and-Development-Project-Motor-Controller-Device-/blob/main/real_1.jpg"/>
+
+<p align="center"> <img src="https://github.com/SujeewBandara/Product-Design-and-Development-Project-Motor-Controller-Device-/blob/main/WhatsApp%20Image%202024-10-07%20at%2022.39.37_8f383d1f.jpg"/>
+
